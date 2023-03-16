@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi there, this is Amrit, a CS grad trying to learn and gain knowledge best to his capacity. So that, one day he can impart this to the next gen.<br>🤝 I love to explore and do projects on web development, so if you are an enthusiast as well, then I think we can agree on something.<br>🌱 I am amazed by the fact that data can help in solving any problem, with this information and a bit of curiosity I am letting myself equipped with the tools that can help me know more about data. So that, I can use my skills to solve problems of the humanity.<br>⚡ I don't if I need to say this or not, but I also love to write poems, wanna read?
+🔭 Hi there, this is Amrit, a CS grad trying to learn and gain knowledge best to his capacity. So that, one day he can impart this to the next gen.<br>🤝 I love to explore and do projects on web development, so if you are an enthusiast as well, then I think we can agree on something.<br>🌱 I am amazed by the fact that data can help in solving any problem, with this information and a bit of curiosity I am letting myself equipped with the tools that can help me know more about data. So that, I can use my skills to solve problems of the humanity.<br>⚡ I don't know if I need to say this or not, but I also love to write poems, wanna read?
 
 
 ## 🌐 Socials:
